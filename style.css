@@ -1,0 +1,62 @@
+/*div,
+section,
+container {
+  border: 1px dashed red;
+  /* Color del borde y su grosor */
+/*
+
+/*font-family: 'Montserrat', sans-serif;
+font-family: 'Playfair Display', serif;*/
+
+.post-button,
+.follower-button,
+.following-button {
+  display: block;
+  width: 88px;
+  text-align: center;
+}
+
+.MainPhoto-container {
+  height: 156px;
+  width: 156px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+}
+
+.MainPhoto {
+  width: 100%;
+  height: 100%;
+  border-radius: 14px;
+}
+
+.Container button {
+  border-radius: 12px;
+  background: #E5E5E5 !important;
+}
+
+.Name {
+  color: #4E5150;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+}
+
+.Place {
+  color: #A9A9A9;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+}
+
+.custom-button {
+  border-radius: 12px;
+  background: gray;
+  color: gainsboro;
+
+}
