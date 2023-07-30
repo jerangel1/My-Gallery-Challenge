@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://{github.com/jerangel1/My-Gallery-Challenge}">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://{127.0.0.1:5500/index.html}">
       Solution
     </a>
     <span> | </span>
@@ -36,22 +36,27 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+![screenshot](./Gallery-Master.png)
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
 - Where can I see your demo?
+You can check out the demo of this project at the following link: Demo Link
+
 - What was your experience?
+Building this project was an amazing experience. I had the opportunity to work with various technologies and frameworks, which helped me improve my web development skills.
+
 - What have you learned/improved?
-- Your wisdom? :)
+Throughout the project, I learned to effectively use HTML, CSS, and Bootstrap to create a responsive and visually appealing website. I also enhanced my understanding of layout design and styling techniques.
 
-### Built With
+#- Any advice?
+My advice for fellow developers is to never stop learning and exploring new technologies. Embrace challenges and keep striving for improvement. Collaborate with others and seek feedback to further enhance your skills. The learning journey is endless, and every step you take will lead you to growth and success. #ThisIsTheWay 
 
-<!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
+This project was built using the following major frameworks:
 
-- [React](https://reactjs.org/)
-- [Vue.js](https://vuejs.org/)
-- [Tailwind](https://tailwindcss.com/)
+- [HTML](https://www.w3.org/TR/html52/)
+- [CSS](https://www.w3.org/Style/CSS/)
+- [Bootstrap](https://getbootstrap.com/)
 
 ## Features
 
